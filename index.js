@@ -14,8 +14,8 @@ app.get ('/',(req, res)=>{
             <title>Página de Inicio</title>
         </head>
         <body>
-            <h1>Bienvenido a mi pagina para la clase 5 </h1>
-            <p>Esta es una página servida desde un servidor Node.js para la actividad 2</p>
+            <h1>Bienvenido a mi pagina </h1>
+            <p>Clase 5 Actividad 2</p>
         </body>
         </html>
     `;
